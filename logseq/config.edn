@@ -427,3 +427,4 @@
  :charge-strength -400
  :charge-range 2900}
  :publishing/all-pages-public? true}
+ :default-home {:page "Innhold"}
