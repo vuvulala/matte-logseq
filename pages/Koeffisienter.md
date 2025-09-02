@@ -1,2 +1,0 @@
-- Koeffisienter er deler av ett produkt.
--

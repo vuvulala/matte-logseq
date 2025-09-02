@@ -1,2 +1,0 @@
-- [[Potenser og røtter]]
--

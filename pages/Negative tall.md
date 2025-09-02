@@ -1,3 +1,0 @@
-- Et negativt tall represesenterer gjeld eller mangel.
-- Vi skriver negative tall slik: $$-a$$
--

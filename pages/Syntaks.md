@@ -1,4 +1,0 @@
-- [[Koeffisienter]]
-- [[Ledd]]
-- [[Uttrykk]]
--

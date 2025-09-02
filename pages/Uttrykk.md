@@ -1,2 +1,0 @@
-- Ett uttrykk er sammensatt av ett eller flere [[Ledd]], og verdien av uttrykket er alle leddene summert sammen.
--
