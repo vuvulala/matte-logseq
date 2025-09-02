@@ -425,4 +425,5 @@
  :excluded-pages? true}
  :graph/forcesettings {:link-dist 120
  :charge-strength -400
- :charge-range 2900}}
+ :charge-range 2900}
+ :publishing/all-pages-public? true}
