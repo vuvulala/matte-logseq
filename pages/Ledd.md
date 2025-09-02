@@ -1,0 +1,3 @@
+- Ett ledd er deler av en sum. Med andre ord, alt som er delt inn med $$+$$ eller $$-$$ er ledd.
+-
+-

@@ -1,0 +1,2 @@
+- En formel er en type [likning]([[Likninger]])
+-

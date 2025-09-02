@@ -1,0 +1,5 @@
+- En [lineær]([[Lineære uttrykk]]) funksjon er en [funksjon]([[Funksjoner]]) ved formen $$f(x)=ax+b$$
+- Lineære funksjoner kan sammenliknes med [[Lineære likninger]]
+- Lineære funksjoner kan for eksempel beskrive forholdet mellom pris og avstand på en taxi, eller pris på kilosvare.
+	- Prisen på en taxitur er $$p(x)=100x+500$$. Da koster det alltid 500kr i tillegg til 100kr per km kjørt, der x er antall kilometer
+	- Prisen på en sekk med ris er gitt ved funksjonen $$R(x)=20x+5$$

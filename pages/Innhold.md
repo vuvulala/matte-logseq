@@ -1,0 +1,11 @@
+- [[Syntaks]]
+-
+- [[Tallteori]]
+	- [[Mengder]]
+- [[Aritmetikk]]
+	-
+- [[Algebra]]
+- [[Funksjoner]]
+	-
+	-
+-

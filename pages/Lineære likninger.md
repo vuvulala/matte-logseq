@@ -1,0 +1,5 @@
+- En [lineær]([[Lineære uttrykk]]) [likning]([[Likninger]]) er en likning ved formen $$y=ax+b$$
+- Lineære likninger kan sammenliknes med [[Lineære funksjoner]]
+- Lineære likninger kan for eksempel beskrive forholdet mellom pris og avstand på en taxi, eller pris på kilosvare.
+	- Prisen på en taxitur er $$p=100x+500$$. Da koster det alltid 500kr i tillegg til 100kr per km kjørt, der x er antall kilometer. For å regne ut dette erstatter du $$x$$ med antall km, og $$p$$ blir prisen.
+	- Prisen på en sekk med ris er gitt ved funksjonen $$r=20x+5$$. Det koster da 20kr per kilo i tillegg til 5 kr for sekken. For å regne ut dette erstatter du $$x$$ med antall kg, og $$p$$ blir prisen

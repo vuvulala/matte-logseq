@@ -1,0 +1,5 @@
+- Lineære [uttrykk]([[Uttrykk]]) består av ett konstantledd og ett stigningstall. De kan skrives på formen $$ax+b$$. Her er $$a$$ stigningstallet, og $$b$$ er konstantleddet
+- Lineære uttrykk er førstegrads [[polynomer]]
+- Dersom noe er lineært betyr det at det øker med samme mengde per endring, uavhengig av størrelsen på mengden.
+- Når en lineær funksjon eller likning blir tegnet, vil den alltid være en rett linje. Det er her lineær tar navnet fra.
+-
