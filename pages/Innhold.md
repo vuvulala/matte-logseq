@@ -1,3 +1,4 @@
+- Hvis du har forbedringsideer eller annen feedback om dette dokumentet, kan du legge inn spørsmål på [github issues](https://github.com/vuvulala/matte-logseq/issues)
 -
 -
 - [[Syntaks]]
