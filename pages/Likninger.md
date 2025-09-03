@@ -1,0 +1,7 @@
+- En likning er når vi setter to [[Uttrykk]] til å være like hverandre.
+- $3=1+2$ er en likning
+-
+- Ofte i likninger så har vi ukjente verdier, dette skriver vi med [[Variabler]].
+- Eksempel på en likning med ukjent er $3=1+x$
+	- I denne likningen vet vi ikke verdien av $x$, vi kan derimot finne den.
+	- Det å finne denne verdien, er det vi kaller [[Algebra]]

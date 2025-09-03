@@ -1,0 +1,3 @@
+- En variabel er en ukjent verdi. Det vil si vi vet det er en verdi, men ikke hvilken.
+- Variabler kan defineres slik: $a=5$.
+	- Dette lager en variabel $a$
