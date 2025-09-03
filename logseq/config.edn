@@ -424,8 +424,9 @@
  :orphan-pages? true
  :excluded-pages? true}
  :graph/forcesettings {:link-dist 120
- :charge-strength -400
+ :charge-strength -200
  :charge-range 2900}
  :publishing/all-pages-public? true
  :default-home {:page "Innhold"}
+ :feature/enable-journals? false
 }
