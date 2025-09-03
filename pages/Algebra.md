@@ -2,3 +2,4 @@
 - I algebra er noen eller alle tall byttet ut med [[Variabler]].
 - For å finne verdien til variablene, bruker vi [[Likninger]]
 -
+-

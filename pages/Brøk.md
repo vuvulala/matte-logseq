@@ -1,0 +1,9 @@
+- Brøk er en annen måte å skrive dele på.
+- En brøk har en teller og en nevner.
+- La oss ta utgangspunkt i brøken $\frac{a}{b}$
+	- I $a$ telleren og $b$ nevneren.
+	- Brøken tilsvarer [uttrykket]([[Uttrykk]]) $a\div b$
+	- Merk at i en brøk er det ikke ambigiøst hva vi deler med hva, slik det kan være i vanlig divisjon
+		- Hvis vi har stykket $a \div b \cdot c$, så blir dette $(a\div b) \cdot c$. Det er ikke sikkert det er dette som var meningen med stykket. Det kan hende det var ment til å leses som $a \div (b \cdot c)$
+		- Hvis vi skriver dette om til en brøk, er ikke lenger dette vagt, da vi har $\frac{a}{b\cdot c}$ eller $\frac{a}{b}\cdot c$
+- {{{embed [[Regneregler for brøk]] }}}

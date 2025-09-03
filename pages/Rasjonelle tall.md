@@ -1,0 +1,3 @@
+- Rasjonelle tall er tall som kan skrives som en [[Brøk]] av to [hele tall]([[Heltall]]).
+- Rasjonelle tall har symbolet $ℚ$
+-
