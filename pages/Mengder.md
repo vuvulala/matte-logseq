@@ -1,3 +1,5 @@
+alias:: Mengdelære/Mengder
+
 - En mengde er ett sett med gyldige verdier.
 - Eksempel på en mengde kan være: $$\set {1, 2, 3}$$
 - Vi kan gi mengdene våre navn, ved å skrive $$S=\set{1, 2, 3}$$
