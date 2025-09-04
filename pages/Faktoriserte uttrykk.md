@@ -1,6 +1,11 @@
-- Et faktorisert uttrykk er et uttrykk der den [[ytterste]] operasjonen er multiplikasjon
+- Et faktorisert uttrykk er et uttrykk der den [[Den ytterste operasjonen]] operasjonen er multiplikasjon
 	- $5+7$, den ytterste operasjonen er $+$, så dette er ikke faktorisert.
 	- $5\cdot 7$, den ytterste operasjonen er $\cdot$, så dette er faktorisert.
 	- $5\cdot 1 + 7$, den ytterste operasjonen er $+$, så dette er ikke faktorisert.
-	-
-	-
+	- $(4+1)\cdot 7$, den ytterste operasjonen er $\cdot$, så dette er faktorisert.
+		- merk at det ikke spiller noe rolle hva som er inne i [parentesen]([[Parentes]]), da dette er sin egen [verdi]([[Verdi]])
+	- $2x\cdot -6$, den ytterste operasjonen er $+$, så dette er ikke faktorisert.
+	- $2(x-3)$, den ytterste operasjonen er $\cdot$, så dette er faktorisert.
+	- $x^2-16$, den ytterste operasjonen er $-$, så dette er ikke faktorisert.
+	- $(x+4)(x-4)$, den ytterste operasjonen er $\cdot$, så dette er faktorisert.
+-

@@ -1,0 +1,38 @@
+- Heltallsmetoden er en metode for å faktorisere uttrykk som $-5t^2+50t+5$
+-
+- Heltallsmetoden er noen ganger veldig rask, men det er ikke alltid den kan brukes.
+- [[Nullpunktsfaktorisering]] er kraftigere, men er også vanskeligere å bruke.
+-
+- Når vi bruker heltallsmetoden, så tar vi utgangspunkt i en 2. grads [polynom]([[polynomer]])
+	- Vi har polynomen $x^2+ax+b$
+	- Vi skal nå finne to verdier $c$ og $d$, som gjør at
+		- $c+d=a$
+		- $c\cdot d=b$
+	- Når vi har funnet disse verdiene, kan vi skrive om polynomen vår som $(x+c)(x+d)$
+- Eksempel 1.
+	- $x^2+8x+7$
+	- Vi finner verdiene $c$ og $d$.
+		- Vi ser at $1+7=8$ og $1\cdot 7=7$, så disse verdiene funker
+	- $x^2+8x+7=(x+1)(x+7)$
+- Eksempel 2.
+	- $x^2-6x+5$
+	- Vi finner verdiene $c$ og $d$.
+		- Vi ser at $(-5)+(-1)=(-6)$ og $(-5)\cdot(-1)=5$, så disse verdiene funker.
+	- $x^2+6x+5=(x+(-5))(x+(-1))$
+	- Vi kan forenkle, og får $(x-5)(x-1)$
+- Eksempel 3.
+	- $x^2+3x-4$
+	- Vi finner verdiene $c$ og $d$.
+		- Vi ser at $4+(-1)=3$ og $4\cdot(-1)=-4$, så disse verdiene funker
+	- $x^2+3x-4=(x+4)(x+(-1))$
+	- Vi kan forenkle, og får $(x+4)(x-1)$
+- Eksempel 4.
+	- $2x^2+6x+8$
+	- Dette uttrykket passer ikke i reglen, så vi må først faktorere ut $2$, slik at vi får $x^2$ alene.
+	- $2(x^2+3x+4)$
+	- Vi kan nå løse inne i parentesen, vi finner verdier for $c$ og $d$
+		- Vi kan prøve noen verdier av $c$ og $d$
+			- $1+2=3$, men $1\cdot 2\neq4$
+			- $0+3$=
+	-
+	-
