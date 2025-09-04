@@ -1,4 +1,11 @@
-- Heltallsmetoden er en metode for å faktorisere uttrykk som $-5t^2+50t+5$
+- Heltallsmetoden er en metode for å faktorisere uttrykk som $x^2+8x+7$
+- Heltallsmetoden er en mer generell versjon av 1. [kvadratsetning]([[Kvadratsetningene]])
+	- Heltallsmetoden kan skrives som
+	- $(x+a)(x+b)=x^2+x(a+b)+ab$
+	- Vi kan se at, dersom $a$ og $b$ er like, får vi
+	- $(x+a)(x+a)=(x+a)^2$
+	-
+	-
 -
 - Heltallsmetoden er noen ganger veldig rask, men det er ikke alltid den kan brukes.
 - [[Nullpunktsfaktorisering]] er kraftigere, men er også vanskeligere å bruke.
