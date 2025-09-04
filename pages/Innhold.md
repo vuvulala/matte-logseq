@@ -1,6 +1,5 @@
 - Hvis du har forbedringsideer eller annen feedback om dette dokumentet, kan du legge inn spørsmål på [github issues](https://github.com/vuvulala/matte-logseq/issues)
 -
--
 - [[Syntaks]]
 -
 - [[Tallteori]]
@@ -9,6 +8,6 @@
 	-
 - [[Algebra]]
 - [[Funksjoner]]
-	-
+	- ((68b83483-c203-4826-9b2b-bc06ea8310b0))
 	-
 -

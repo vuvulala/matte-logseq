@@ -1,2 +1,2 @@
-- Koeffisienter er deler av ett produkt.
+- Koeffisienter er deler av ett [produkt]([[Produkt]]).
 -

@@ -1,5 +1,4 @@
 - Algebra er en generalisering av [[Aritmetikk]].
 - I algebra er noen eller alle tall byttet ut med [[Variabler]].
 - For å finne verdien til variablene, bruker vi [[Likninger]]
--
--
+- Det å finne disse verdiene kaller vi å [løse]([[Løse likninger]]) en likning.

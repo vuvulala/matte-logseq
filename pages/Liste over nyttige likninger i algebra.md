@@ -1,0 +1,2 @@
+- [[Kvadratsetningene]]
+- [[Konjugatsetningen]]

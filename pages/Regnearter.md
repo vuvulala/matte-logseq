@@ -1,2 +1,3 @@
-- [[Potenser og røtter]]
--
+- [[Potenser]] og [[Røtter]]
+- [[Multiplikasjon]] og [[Divisjon]]
+- [[Addisjon]] og [[Subtraksjon]]

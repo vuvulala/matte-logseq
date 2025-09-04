@@ -15,4 +15,6 @@
 	- Merk at nevnerne kan være ulike her.
 -
 - # Divisjon
-- For å dividere to brøker $\frac{a}{b}\div \frac{c}{d}$,
+- For å dividere to brøker $\frac{a}{b}\div \frac{c}{d}$, snur vi den andre brøken, og ganger de sammen.
+- $$\frac{a}{b}\div\frac{c}{d}=\frac{a}{b}\cdot\frac{d}{c}=\frac{ad}{bc}$$
+-

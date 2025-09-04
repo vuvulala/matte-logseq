@@ -1,0 +1,10 @@
+- Å løse en likning for en variabel, betyr å finne ut hva denne variabelen er, ved å sette den alene på en side av $=$
+- Hvis vi tar utgangspunkt i likningen $y+x=5$
+	- Hvis vi skal løse denne for $x$, så blir resultatet $x=5-y$
+	- Hvis vi skal løse denne for $y$, så blir resultatet $y=5-x$
+-
+- Når vi løser likninger, så har vi noen nyttige verktøy.
+- Vi kan bruke forskjellige likninger til å forenkle enten direkte eller indirekte
+	- {{{embed [[Liste over nyttige likninger i algebra]] }}}
+- Vi har også en rekke teknikker vi kan bruke
+	- {{{embed [[Liste over nyttige teknikker i algebra]] }}}

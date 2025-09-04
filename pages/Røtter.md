@@ -1,0 +1,8 @@
+- En rot er det tallet, som ganget med seg selv $n$ ganger, gir en bestemt verdi $x$ (se eksempel nedenfor).
+- Uttrykket for rot ser slik ut $\sqrt[n]{x}$ som leser "den n'te roten av x".
+- Noen eksemper på røtter er
+	- $\sqrt4=2$ siden $2\cdot2=4$
+	- $\sqrt[3]{27}=3$ siden $3\cdot 3\cdot 3 = 27$
+-
+- Røtter er tett knyttet til [[Potenser]], og disse kan sees på som to sider av samme sak
+-

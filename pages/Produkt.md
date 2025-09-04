@@ -1,0 +1,3 @@
+- Et produkt er resultatet av å [multiplisere]([[Multiplikasjon]]) to eller flere tall.
+-
+-

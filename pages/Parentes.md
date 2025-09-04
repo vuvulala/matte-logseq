@@ -1,0 +1,4 @@
+- Parenteser er brukt til å gruppere [[Ledd]], for å vise at disse er utregning for en [[Verdi]].
+- Dette har effekten av at vi må regne ut parenteser før vi kan gjøre noe med verdiene inni parentesen.
+- Likevel finnes det mange måter å [regne med parenteser]([[Regneregler for parentes]]), dersom vi [ikke vet verdiene]([[Variabler]]) i parentesen.
+-
