@@ -1,0 +1,5 @@
+- Tall er det vi bruker for å representere en mengde. Det kan være 3 bord, 100kr, etc.
+- I matematikk så bruker vi tall, enten kjente eller [ukjente]([[Variabler]]).
+- Vi kan bruke en rekke [operasjoner]([[Regnearter]]) for å endre på tall
+- Vi kan også sette opp [forhold mellom 2 eller fler tall]([[Relasjoner]])
+-

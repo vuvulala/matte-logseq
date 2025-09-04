@@ -1,0 +1,6 @@
+- Identitetsverdiene for en [regenart]([[Regnearter]]) er den verdien du får ved å bruke den [inverse operasjonen]([[Invers]]) på verdien.
+- Dette er også de verdiene, som når brukt på et tall, ikke endrer verdien på tallet.
+- Vi har identiteter for en rekke regnearter
+	- [Addisjon og Subtraksjon]([[Identiteter/Addisjon og Subtraksjon]])
+	- [Multiplikasjon og divisjon]([[Identiteter/Muliplikasjon og divisjon]])
+-

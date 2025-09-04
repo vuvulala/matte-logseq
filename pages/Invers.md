@@ -1,0 +1,9 @@
+- En inver er det tallet du må bruke for å få [identiteten]([[Identiteter]]) til en [operasjon]([[Regnearter]])
+-
+- Hvis du for eksempel har $+2$ så kan du bruke den [additive inversen]([[Additiv invers]]) til å få [identitsverdien for addisjon]([[Identiteter/Addisjon og Subtraksjon]]). Denne inversen er $-2$, og hvis vi tar $+2-2$ så får vi $0$
+- Noen vanlige inverser er
+	- [[Divisjon]] og [[Multiplikasjon]]
+		- Hvis du har $\cdot a$ så kan du bruke inversen $\div a$ for å få den multiplikative identiteten $1$
+	- [[Addisjon]] og [[Subtraksjon]]
+		- Hvis du har $+a$ så kan du bruke inversen $-a$ for å få den additive identiteten $0$
+- Inverser kan tenkes på som "å gjøre det motsatte"

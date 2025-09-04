@@ -2,10 +2,12 @@
 -
 - [[Syntaks]]
 -
-- [[Tallteori]]
+- [[Tallteori]], ((68b95546-cc31-40b1-850f-2e153d75a0dd))
+-
+- [[Mengdelære]]
 	- [[Mengder]]
+-
 - [[Aritmetikk]]
-	-
 - [[Algebra]]
 - [[Funksjoner]]
 	- ((68b83483-c203-4826-9b2b-bc06ea8310b0))

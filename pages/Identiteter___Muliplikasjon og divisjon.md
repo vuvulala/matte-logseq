@@ -1,0 +1,4 @@
+- Identiteten for [multiplikasjon]([[Multiplikasjon]]) og [divisjon]([[Divisjon]]) er $1$
+- Uansett hvilket tall du ganger med 1 eller deler på 1, får du det opprinnelige tallet.
+- $a\cdot 1=a\div 0=a$
+-

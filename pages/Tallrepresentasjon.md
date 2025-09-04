@@ -1,6 +1,7 @@
-- Tall kan representeres på flere måter. Det vanligste er å skrive tall på den enkleste formen vi kan.
+- [Tall]([[Tall]]) kan representeres på flere måter. Det vanligste er å skrive tall på den enkleste formen vi kan.
 	- Vi kan skrive "2" som $2$
 	- Vi kan skrive "En gjeld av 100kr" som $-100$
 	- Vi kan skrive "det dobbelte av 5" som $2\cdot 5$
 -
-- Selv om vi ofte skriver tall på enklest måte, så hender det det er enklere å skrive de "usynlige" fortegnene og identitene
+- Selv om vi ofte skriver tall på enklest måte, så hender det det er enklere å skrive de "usynlige" [fortegnene]([[Fortegn]]) og [identitetene]([[Identiteter]])
+-

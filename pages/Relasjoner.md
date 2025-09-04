@@ -1,0 +1,3 @@
+- Når vi setter opp et forhold mellom to tall.
+- Dette kan være en [likning]([[Likninger]])
+- Det kan være en [ulikhet]([[Ulikheter]])

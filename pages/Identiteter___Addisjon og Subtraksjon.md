@@ -1,0 +1,4 @@
+- Identiteten for [addisjon]([[Addisjon]]) og [subtraksjon]([[Subtraksjon]]) er $0$
+- Uansett hvilket tall du legger til 0 eller trekker fra 0, får du det opprinnelige tallet.
+- $a+0=a-0=a$
+-

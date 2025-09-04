@@ -1,0 +1,3 @@
+- Multiplikasjon er [det motsatte]([[Invers]]) av [divisjon]([[Divisjon]])
+-
+-
