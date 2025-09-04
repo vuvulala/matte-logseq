@@ -1,0 +1,6 @@
+- Et faktorisert uttrykk er et uttrykk der den [[ytterste]] operasjonen er multiplikasjon
+	- $5+7$, den ytterste operasjonen er $+$, så dette er ikke faktorisert.
+	- $5\cdot 7$, den ytterste operasjonen er $\cdot$, så dette er faktorisert.
+	- $5\cdot 1 + 7$, den ytterste operasjonen er $+$, så dette er ikke faktorisert.
+	-
+	-

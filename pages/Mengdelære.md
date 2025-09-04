@@ -1,2 +1,2 @@
-- Mengdelære er en bransje i matematikk som tar for seg [[Mengdelære/Mengder]]
+- Mengdelære er en bransje i matematikk som tar for seg [[Mengder]]
 -

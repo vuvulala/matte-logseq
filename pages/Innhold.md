@@ -2,12 +2,15 @@
 -
 - [[Syntaks]]
 -
-- [[Tallteori]], ((68b95546-cc31-40b1-850f-2e153d75a0dd))
--
 - [[Mengdelære]]
 	- [[Mengder]]
 -
-- [[Aritmetikk]]
+- [[Tallteori]], ((68b95546-cc31-40b1-850f-2e153d75a0dd))
+-
+-
+- [[Aritmetikk]] er en gren i matematikk som ser på operasjoner på tall
+	- [[Regnearter]]
+-
 - [[Algebra]]
 - [[Funksjoner]]
 	- ((68b83483-c203-4826-9b2b-bc06ea8310b0))

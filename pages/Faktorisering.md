@@ -1,6 +1,8 @@
 - Å faktorisere betyr å dele opp noe i [faktorer]([[Faktor]]).
+- Når vi har faktorisert, har vi fått et [faktorisert]([[Faktoriserte uttrykk]]) [[Uttrykk]]
 - Vi kan faktorisere tall, dette betyr å dele opp et tall i forskjellige [faktorer]([[Faktor]]).
 	- Vi kan faktorisere tallet $12=6\cdot 2$
 - Vi kan også faktorisere [[Uttrykk]]
 	- Vi kan faktorisere ved å [[trekke ut felles faktor]]
 	- Vi kan faktorisere ved å [bruke]([[Faktorisering ved å bruke kvadratsetningene]]) [[Kvadratsetningene]]
+	- Vi kan faktorisere ved å bruke [heltallsmetoden]([[Heltallsmetoden]])
