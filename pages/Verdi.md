@@ -1,0 +1,10 @@
+- En verdi kan være bare ett [[Tall]], eller det kan være et [[Uttrykk]] for å finne ett tall.
+- Eksempler på verdier:
+	- $5$, dette er verdien $5$
+	- $2\cdot 3$, dette er verdien $6$. Se [[Multiplikasjon]]
+	- $\sqrt{2}$, dette er verdien, som ganget med seg selv, gir $2$. Se [[Røtter]]
+-
+- Hvis vi har verdier med [ukjente]([[Variabler]]), så kan vi sette [[Parentes]] rundt, for å vise at disse hører sammen.
+	- La $x+4$ være en verdi, dersom vi skulle brukt den i en [likning]([[Likninger]]), og vi ville at det dobbelte av verdien skulle være 5, måtte vi skrevet: $(x+4)\cdot 2=5$.
+	- Vi har brukt parentesen nå for å forklare til leseren netopp det at $x+4$ er en verdi, vi ikke kan separere uten å ta i bruk [[Regneregler for parentes]].
+-
