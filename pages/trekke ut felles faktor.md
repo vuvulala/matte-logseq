@@ -1,0 +1,4 @@
+- I en metode for å faktorisere, så trekker vi ut en felles [faktor]([[Faktor]]) fra en parentes. Dette gjør vi via parentesreglen ((68b94d96-16f4-4a3f-97c7-f3d97335c4a6))
+	- Hvis vi har utrrykket $3x^2+27x$ så kan vi se at begge leddene har en faktor av $3x$
+	- Vi kan derfor skrive dette om som $3x(x+9)$
+-

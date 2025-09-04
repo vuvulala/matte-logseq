@@ -1,0 +1,2 @@
+- Hvis vi har uttrykket $x^2-6x+9$ så kan vi bruke 2. [kvadratsetning]([[Kvadratsetningene]]) ((68b93644-512d-40ce-831f-735ad85f2a96))
+- Vi kan derfor skrive dette som $(x-3)^2$

@@ -1,0 +1,4 @@
+- Faktorer er deler av ett [produkt]([[Produkt]]).
+-
+- En numerisk faktor kalles en [koeffisient]([[Koeffisienter]])
+-

@@ -10,6 +10,10 @@
 	- $-(4+b-a)=-4-b+a$
 -
 - Hvis parentesen er [ganget]([[Multiplikasjon]]) med noe, må denne [[Distribueres]] over alle [[Ledd]].
+	- $a(b+c)=ab+ac$
+	  id:: 68b94d96-16f4-4a3f-97c7-f3d97335c4a6
 	- $2(4+b-a)=8+2b-2a$
+	  id:: 68b94613-e997-4c68-aaf0-6f6453c0bf3d
 	- Merk at hvis parentesen er ganget med et [negativt tall]([[Negative tall]]), så ganger vi med det negative tallet i alle ledd. Vi snur derfor alle leddene.
+-
 -
