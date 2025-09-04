@@ -4,8 +4,6 @@
 	- $(x+a)(x+b)=x^2+x(a+b)+ab$
 	- Vi kan se at, dersom $a$ og $b$ er like, får vi
 	- $(x+a)(x+a)=(x+a)^2$
-	-
-	-
 -
 - Heltallsmetoden er noen ganger veldig rask, men det er ikke alltid den kan brukes.
 - [[Nullpunktsfaktorisering]] er kraftigere, men er også vanskeligere å bruke.
