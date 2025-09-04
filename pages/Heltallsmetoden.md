@@ -33,6 +33,7 @@
 	- Vi kan nå løse inne i parentesen, vi finner verdier for $c$ og $d$
 		- Vi kan prøve noen verdier av $c$ og $d$
 			- $1+2=3$, men $1\cdot 2\neq4$
-			- $0+3$=
-	-
-	-
+			- $0+3=3$, men $0\cdot 3\neq 4$
+		- Vi har prøvd alle rimelige verdier, men ingen funker
+		- Vi kan konkludere med at vi ikke kan bruke heltallsmetoden for denne polynomen
+-

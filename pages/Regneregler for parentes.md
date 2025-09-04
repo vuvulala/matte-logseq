@@ -16,4 +16,3 @@
 	  id:: 68b94613-e997-4c68-aaf0-6f6453c0bf3d
 	- Merk at hvis parentesen er ganget med et [negativt tall]([[Negative tall]]), så ganger vi med det negative tallet i alle ledd. Vi snur derfor alle leddene.
 -
--
