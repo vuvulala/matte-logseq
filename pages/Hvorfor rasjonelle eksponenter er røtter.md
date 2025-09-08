@@ -1,0 +1,13 @@
+- Vi vet at $a^m\cdot a^n=a^{m+n}$
+- Hvis vi tar $a^1$
+- Vi vet $1=\frac{1}{2}+\frac{1}{2}$
+- Så $a^1=a^{\frac{1}{2}+\frac{1}{2}}$
+- Vi vet fra reglen over at $a^\frac{1}{2}\cdot a^\frac{1}{2}$
+- Vi vet at $a^1=a$, så $a^\frac{1}{2}\cdot a^\frac{1}{2}=a$
+- Hvis vi tar $b=a^\frac{1}{2}$
+- Vi får da $b\cdot b = a$, vi trenger derfor at $b$ er et tall, slik at $b^2=a$
+- Vi får derfor at $b=\sqrt{a}$
+- Siden $b=a^\frac{1}{2}$ må $a^\frac{1}{2}=\sqrt{a}$
+-
+- Vi kan gjøre liknende argumenter for $\prod_{i=1}^{n} a^\frac{1}{n}, n\in \mathbb{N}$
+-

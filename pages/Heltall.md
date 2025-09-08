@@ -1,2 +1,3 @@
 - Heltallene er alle de [naturlige tallene]([[Naturlige tall]]), i tillegg til 0 og de [negative tallene]([[Additiv invers]]).
+- Heltall er tall som ikke har noe komma.
 - Dette kan skrives som $ℤ=\{..., -2, -1, 0, 1, 2, ...\}$ eller $ℤ=\{0, 1, -1, 2, -2, ...\}$

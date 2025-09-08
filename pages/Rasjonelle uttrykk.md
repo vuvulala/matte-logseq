@@ -1,0 +1,9 @@
+- Rasjonelle uttrykk er [[Uttrykk]] som er skrevet som en [[Brøk]]
+- Vi kan for eksempel har uttrykket $\frac{3}{10}\cdot\frac{5}{7}$
+- Når vi regner med rasjonelle uttrykk, må vi huske at uttrykkene over og under brøkstreken, er sine egne [verdier]([[Verdi]])
+	- Dette betyr at hvis vi har ett uttrykk som $\frac{2+1}{10}\cdot\frac{5}{7}$, så må vi gange $5$ med $(2+1)$, *ikke* $1$
+	- altså: $\frac{2+1}{10}\cdot\frac{5}{7}\neq \frac{2+1\cdot5}{10\cdot7}$
+	- $\frac{2+1}{10}\cdot \frac{5}{7}=\frac{(2+1)\cdot 5}{10\cdot 7}$
+	- Hvis vi har uttrykk som $\frac{8}{10}-\frac{2+5}{10}$, så må vi passe på det samme:
+	- $\frac{8}{10}-\frac{2+5}{10}\neq \frac{8-2+5}{10}$
+	- $\frac{8}{10}-\frac{7}{10}=\frac{8-(2+5)}{10}$

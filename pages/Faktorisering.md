@@ -6,3 +6,4 @@
 	- Vi kan faktorisere ved å [[trekke ut felles faktor]]
 	- Vi kan faktorisere ved å [bruke]([[Faktorisering ved å bruke kvadratsetningene]]) [[Kvadratsetningene]]
 	- Vi kan faktorisere ved å bruke [heltallsmetoden]([[Heltallsmetoden]])
+- Vi kan [faktorisere brøk]([[Faktorisere brøk]])

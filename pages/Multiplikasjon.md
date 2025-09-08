@@ -1,3 +1,19 @@
+# Oppsummert
+- Multiplikasjon er en regneart som skrives: $a\cdot b$ eller $a\times b$.
+	- Når vi bruker [algebra]([[Algebra]]), så skriver vi multiplikasjon med $\cdot$ for å skille fra symbolet $x$
+- Å multiplisere $a\cdot b$ betyr å [addere]([[Addisjon]]) $a$ med seg selv $b$ ganger.
+	- $2\cdot 3$ er $2 + 2 + 2$
 - Multiplikasjon er [det motsatte]([[Invers]]) av [divisjon]([[Divisjon]])
--
--
+- # Terminologi
+- Når vi skal multiplisere to tall, kaller vi det å gange.
+	- $a\cdot b$ leses som "a *ganger* b"
+- Svaret på et gangestykke kalles et [[Produkt]]
+- De forskjellige verdiene vi ganger samme, kaller vi [faktorer]([[Faktor]])
+- # Regneregler for multiplikasjon
+	- $a\cdot b=b\cdot a$ [[Kommutativ lov]]
+	- $a\cdot (b \cdot c) = (a\cdot b)\cdot c$ [[Assosiativ lov]]
+	- $a\cdot(b+c)=a\cdot b + a\cdot c$ [[Distributiv lov]]
+	- $a\cdot 1=a$ [Identitetselement]([[Identiteter/Muliplikasjon og divisjon]])
+	- $a\cdot 0=0$
+	- $a\cdot (-1)=-a$ Et tall ganget med $-1$ gir den [additive inversen]([[Additiv invers]])
+	-

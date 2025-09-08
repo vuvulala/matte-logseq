@@ -1,0 +1,5 @@
+- Naturlige tall er tallene vi ofte teller med.
+- Det er de første tallene vi lærer oss.
+- De naturlige tallene kan skrives som $ℕ=\{1, 2, ...\}$
+-
+-

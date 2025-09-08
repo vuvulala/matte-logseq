@@ -1,0 +1,14 @@
+- Hvis vi har en [brøk]([[Brøk]]), så kan vi faktorisere dersom [teller](((68b83483-c203-4826-9b2b-bc06ea8310b0))) har en [faktor]([[Faktor]]) lik nevneren.
+-
+- Hvis brøken kan skrives som $\frac{ab}{ac}$, så kan vi faktorisere ut $a$, vi får da $\frac{ab}{ac}=\frac{b}{c}$
+	- Eksempel: $\frac{3x}{3}$
+	- Vi ser at vi har en felles faktor med $3$, vi har altså $\frac{ab}{ac}, a=3, b=x, c=1$
+	- Vi kan fjerne $3$, og ender med $\frac{3x}{3}=x$
+	-
+	- Eksempel: $\frac{(x+4)(x-4)}{x+4}$
+	- Vi ser at nevneren er $x+4$, siden nevneren er sin egen verdi, må en faktor på telleren være $x+4$ for at vi kan faktorisere.
+	- Vi ser at dette er tilfelle, og  i kan fjerne $x+4$
+	- vi får da $\frac{(x+4)(x-4)}{x+4}=(x-4)$
+	-
+	- Eksempel: $\frac{x+4}{x}$
+	- Merk at denne gangen kan vi ikke faktorisere ut, siden ikke brøken vår kan skrives som $\frac{ab}{ac}$
