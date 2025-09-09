@@ -1,2 +1,35 @@
 - Mengdelære er en bransje i matematikk som tar for seg [[Mengder]]
 -
+- Vi kan gjøre sammenlikninger med verdier og mengder, ved en rekke operasjoner
+	- Hvis et element er i mengden, bruker vi symbolet $$\in$$.
+	  Dette er lest som "ligger i" eller "tilhører i"
+		- Vi kan for eksempel si $$2\in S$$, som tilsvarer $$2 \in \set{1, 2, 3}$$.
+		  Dette kan leses som "2 ligger i mengden 1, 2, 3"
+	-
+	- Hvis et element ikke er i mengden, bruker vi symbolet $$\notin$$.
+	  Dette er lest som "ligger ikke i"
+		- Vi kan for eksempel si $$4\notin S$$, som tilsvarer $$4 \notin \set{1, 2, 3}$$
+		- Dette kan leses som "4 ligger ikke i mengden 1, 2, 3"
+-
+- Vi kan regne med mengder, ved en rekke operasjoner
+	- Vi kan fjerne mengder ved å bruke $$\setminus$$.
+		- La $$A=\set{1, 2, 3}$$ og $$B=\set{1, 4}$$
+		- Hvis vi skriver $$A\setminus B$$ blir svaret $$\set{2, 3}$$
+	-
+	- Vi kan ta komplementmengden av en mengde $A$ ved å skrive $\overline A$, resultatet blir mengden av alle verdier som er i grunnmengden, og ikke er i $A$
+		- La $A=\set{1, 2}$ og grunnmengden $S=\set{0, 1, 2, 3, 4, 5}$
+		- $\overline A=\set{0, 3, 4, 5}$
+	-
+	- Hvis vi har to mengder $A$ og $B$, kan vi bruke $\subset$ dersom $A$ er en delmengde av $B$
+		- Hvis $A=\set{1, 2, 3}$ og $B=\set{1, 2, 3, 4}$ så er $A\subset B$ siden alle verdiene i $A$ finnes i $B$
+		-
+	- Hvis vi har to mengder $A$ og $B$, kan vi bruke $\cap$ for å ta snittet, resultatet blir mengden av alle verdier $A$ og $B$ har felles
+		- la $A=\set{1, 2, 3, 4}$ og $B=\set{2, 4, 6, 8}$
+		- $A \cap B=\set{2, 4}$
+	-
+	- Hvis vi har to mengder $A$ og $B$, kan vi bruke $\cup$ for å ta unionen, resultatet blir mengden av alle verdier som er i $A$ eller $B$ eller begge
+		- la $A=\set{1, 2, 3, 4}$ og $B=\set{2, 4, 6, 8}$
+		- $A \cup B = \set{1, 2, 3, 4, 6, 8}$
+	-
+		-
+-
