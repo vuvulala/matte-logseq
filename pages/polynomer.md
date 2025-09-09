@@ -1,0 +1,6 @@
+- En polynom er en [sum]([[Summering]]) der alle [ledd]([[Ledd]]) er en konstant multiplisert med en eller flere ukjente opphøyd i positive heltallseksponenter'
+- En polynom har en grad, oppgitt ved summen til de høyeste eksponentene til alle de ukjente variablene.
+- [2. grads polynom]([[2. grads polynom]]) er for eksempel
+	- $ax^2+bx+c$
+	- $ax+by+x+y+c$
+-

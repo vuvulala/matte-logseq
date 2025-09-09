@@ -1,0 +1,35 @@
+- $ax^2+bx+c=0, a\neq 0$
+	- Hvis $a=0$ er det en [førstegradspolynom]([[1. grads polynom]])
+- Vi kan dele begge sider med $a$, siden $a\neq 0$
+- $x^2+\frac{b}{a}x+\frac{c}{a}=0$
+-
+- Vi subtraherer $\frac{c}{a}$ fra begge sider
+- $x^2+\frac{b}{a} x =-\frac{c}{a}$
+-
+- vi kan bruke [1. kvadratsetning](((68b95ed3-c343-40f9-89a9-76bb889a3280))) dersom vi [fullfører kvadratet]([[Fullføre kvadrat]])
+	- Vi fullfører kvadratet ved å legge til $(\frac{b}{2a})^2$ på begge sider
+	- $x^2+\frac{b}{a}x+(\frac{b}{2a})^2=-\frac{c}{a}+(\frac{b}{2a})^2$
+	-
+	- Vi bruker nå 1. kvadratsetning
+	- $(x+\frac{b}{2a})^2=(\frac{b}{2a})^2 - \frac{c}{a}$
+-
+- Vi regner ut eksponenten på høyre side
+- $(x+\frac{b}{2a})^2=\frac{b^2}{4a^2} - \frac{c}{a}$
+-
+- Vi utvider nå $\frac{c}{a}$ med $4a$, slik at vi har felles nevner på høyre siden
+- $(x+\frac{b}{2a})^2=\frac{b^2}{4a^2} - \frac{4ac}{4a^2}$
+-
+- Vi kan nå slå sammen brøkene på høyre side
+- $(x+\frac{b}{2a})^2=\frac{b^2-4ca}{4a^2}$
+-
+- Dersom $b^2-4ac >= 0$, kan vi ta roten
+- $x+\frac{b}{2a}=\pm\sqrt{\frac{b^2-4ac}{4a^2}}$
+-
+- Vi kan forenkle høyresiden ved å regne ut roten til nevneren
+- $x+\frac{b}{2a}=\pm\frac{\sqrt{b^2-4ac}}{2a}$
+-
+- Vi kan subtrahere $\frac{b}{2a}$ fra begge sider
+- $x=\pm\frac{\sqrt{b^2-4ac}}{2a}-\frac{b}{2a}$
+-
+- Vi kan slå sammen brøkene, og vi får svaret vårt
+- $x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$

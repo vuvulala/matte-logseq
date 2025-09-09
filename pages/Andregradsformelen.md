@@ -1,0 +1,6 @@
+- Andregradsformelen kan brukes for å finne nullpunktene til en [[2. grads polynom]]
+- andregradslikningen $ax^2+bx+c=0$ har løsningene
+- $x=\frac{-b\pm \sqrt{b^2-4ac}}{2a}$
+- når $b^2-4ac \ge 0$
+- For å vite hvordan formelen er derivert, se [[Derivasjon av andregradsformelen]]
+-
