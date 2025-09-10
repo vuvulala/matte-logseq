@@ -1,0 +1,36 @@
+- Vi skal nå bevise at en 2.grads polynom $ax^2+bx+c$ med nullpunkter $x_1, x_2$,
+  kan skrives $a(x-x_1)(x-x_2)$
+-
+- Nullpunktene til polynomen er gitt via ABC formelen
+	- $x_1=\frac{-b+\sqrt{b^2-4ac}}{2a}$
+	- $x_2=\frac{-b-\sqrt{b^2-4ac}}{2a}$
+-
+- Vi vil derfor bevise at $ax^2+bx+c=a(x-x_1)(x-x_2)$
+-
+- $ax^2+bx+c=a(x-\frac{-b+\sqrt{b^2-4ac}}{2a})(x-\frac{-b-\sqrt{b^2-4ac}}{2a})$
+	- $(x-\frac{-b+\sqrt{b^2-4ac}}{2a})(x-\frac{-b-\sqrt{b^2-4ac}}{2a})$
+	- $h=\sqrt{b^2-4ac}$
+	- $(x-\frac{-b+h}{2a})(x-\frac{-b-h}{2a})$
+	- $x(x-\frac{-b-h}{2a})-\frac{-b+h}{2a}(x-\frac{-b-h}{2a})$
+	- $(x^2-x\frac{-b-h}{2a})-(x\frac{-b+h}{2a}-(\frac{-b-h}{2a}(\frac{-b+h}{2a})))$
+	- $(x^2-x\frac{-b-h}{2a})-(\frac{-bx+hx}{2a}-\frac{(-b+h)(-b-h)}{4a^2})$
+	- $(x^2-x\frac{-b-h}{2a})-(\frac{-bx+hx}{2a}-\frac{(-b)^2-2(-b)h+h^2}{4a^2})$
+	- $(x^2-x\frac{-b-h}{2a})-(\frac{-bx+hx}{2a}-\frac{b^2+2bh+h^2}{4a^2})$
+	- $(x^2-x\frac{-b-h}{2a})-(\frac{-2abx+2ahx}{4a^2}-\frac{b^2+2bh+h^2}{4a^2})$
+	- $(x^2-x\frac{-b-h}{2a})-(\frac{-2abx+2ahx-(b^2+2bh+h^2)}{4a^2})$
+	- $(x^2-x\frac{-b-h}{2a})-(\frac{-2abx+2ahx-b^2-2bh-h^2}{4a^2})$
+	- $(x^2-\frac{-bx-hx}{2a})-(\frac{-2abx+2ahx-b^2-2bh-h^2}{4a^2})$
+	- $x^2-\frac{-2abx-2ahx}{4a^2}-\frac{-2abx+2ahx-b^2-2bh-h^2}{4a^2}$
+	- $x^2-\frac{-2abx-2ahx-(-2abx+2ahx-b^2-2bh-h^2)}{4a^2}$
+	- $x^2-\frac{-2abx-2ahx+2abx-2ahx+b^2+2bh+h^2}{4a^2}$
+	- $x^2-\frac{2abx-2abx-2ahx-2ahx+b^2+2bh+h^2}{4a^2}$
+	- $x^2-\frac{-4ahx+b^2+2bh+h^2}{4a^2}$
+	- $x^2-\frac{-4ahx+b^2+2bh+(\sqrt{b^2-4ac})^2}{4a^2}$
+	- $x^2-\frac{-4ahx+b^2+2bh+b^2-4ac}{4a^2}$
+	- $x^2-\frac{-4ahx+2b^2+2bh-4ac}{4a^2}$
+	- $x^2-\frac{-4a(\sqrt{b^2-4ac})x+2b^2+2b(\sqrt{b^2-4ac})-4ac}{4a^2}$
+	- $x^2-\frac{-2a(\sqrt{b^2-4ac})x+b^2+b(\sqrt{b^2-4ac})-2ac}{2a^2}$
+	- $x^2-\frac{-2a(\sqrt{b^2-4ac})x-2ac+b^2+b(\sqrt{b^2-4ac})}{2a^2}$
+	- $x^2-\frac{-2a(\sqrt{b^2-4ac})x-2ac}{2a^2}+\frac{b^2+b(\sqrt{b^2-4ac})}{2a^2}$
+	- $x^2-\frac{-2a(\sqrt{b^2-4ac})x-2ac}{2a^2}+\frac{b^2+b(\sqrt{b^2-4ac})}{2a^2}$
+-

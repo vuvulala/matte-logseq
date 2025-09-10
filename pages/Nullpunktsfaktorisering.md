@@ -4,6 +4,8 @@
 - Dersom nullpunktet treffer x-aksen, må vi telle den dobbelt. Hvis vi har polynomen $x^2+2x+1$, som har nullpunkt i $x=-1$. nullpunktet her treffer x-aksen,
   så den faktoriseres $1(x+1)(x+1)=(x+1)^2$
 -
+- [[Bevis for nullpunktsfaktorisering av 2.grads polynomer]]
+-
 -
 -
 - Dette stemmer for n'te grads polynomer.

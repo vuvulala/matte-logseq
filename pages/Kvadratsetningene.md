@@ -7,4 +7,3 @@
 	  id:: 68b93644-512d-40ce-831f-735ad85f2a96
 - [konjugatsetningen]([[Konjugatsetningen]]) blir ofte betegnet som 3. kvadratsetning
 	- ((68b939c3-5354-4fa1-b581-89b51db55fad))
--
