@@ -1,0 +1,2 @@
+- Derivasjon er nøye knyttet til [[sekant]]
+-

@@ -1,0 +1,4 @@
+- Regneregler for addisjon
+	- $a+b=b+a$ [[Kommutativ lov]]
+	- $a+(b+c) = (a+b)+c$ [[Assosiativ lov]]
+	- $a+0=a$ [Identitetselement]([[Identiteter/Muliplikasjon og divisjon]])

@@ -17,3 +17,4 @@
 	- $a\cdot 0=0$
 	- $a\cdot (-1)=-a$ Et tall ganget med $-1$ gir den [additive inversen]([[Additiv invers]])
 	-
+-

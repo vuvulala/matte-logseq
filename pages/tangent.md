@@ -1,0 +1,6 @@
+- En tangent er en [linje]([[Lineære uttrykk]]) som treffer en kurve ved ett punkt.
+- Tangenten er definert som [grenseverdien]([[Grenseverdier]]) til en [[sekant]] der $\Delta x$ nærmer seg $0$
+- Tangenten vil ha [[stigningstall]] lik [den deriverte]([[Derivasjon]]) av funskjonen ved punktet $x=a$
+	- Altså hvis du har en funksjon $f(x)$ vil tangenten ved $x=a$ ha stigningstall $f'(a)$
+- Gitt en [deriverbar]([[Deriverbar]]) [funksjon]([[Funksjoner]]) $f(x)$ kan du finne tangenten til punktet ved $x=a$ ved følgende formel
+	- $y=f^\prime(x)(x-a)+f(a)$

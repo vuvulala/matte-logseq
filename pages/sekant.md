@@ -1,0 +1,2 @@
+- En sekant er en linje som skjærer en kurve ved to punkter
+- Når forskjellen i x-verdiene på punktene nærmer seg null, får vi [[tangent]]

@@ -1,0 +1,9 @@
+- Polynomdivisjon er en metode for å [dele]([[Divisjon]]) en [polynom]([[polynomer]]) med en annen, uten å dele/gange ut.
+- $(4x^3+5x^2-2x+6) \div (2x+4)=$
+	- $(\overbrace{4x^3}^a+5x^2-2x+6) \div (\overbrace{2x}^b+4)=$ Vi starter med å sammenlikne disse to leddene
+	- Vi regner ut $\div{a}{b}=2x^2$, og skriver dette til høyre for $=$
+	- $(4x^3+5x^2-2x+6) \div \overbrace{(2x+4)}^a=\overbrace{2x^2}^b$
+	- Vi kan nå skrive $-(a\cdot c)$ under polynomen til venstre, og regne ut
+	- $\ \ \ (4x^3+5x^2-2x+6) \div \overbrace{(2x+4)}^a=\overbrace{2x^2}^b\\-(4x^3+8x^2)\\ \ \ \ (0x^3-3x^2)$
+	- Nå trekker vi ned neste ledd, og fortsetter prosessen
+	- $\ \ \ (4x^3+5x^2-2x+6) \div \overbrace{(2x+4)}^a=\overbrace{2x^2}^b\\-(4x^3+8x^2)\\ \ \ \ \ \ \ \ \ \ \ \ (-3x^2-2x)$
