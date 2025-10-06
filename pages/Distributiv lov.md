@@ -1,0 +1,13 @@
+- En operasjon er distributiv over en annen dersom følgende krav er tilfredsstilt.
+	- Gitt operasjonene $\otimes$ og $\oplus$
+	- Operasjonen $\otimes$ er venste-distributiv dersom
+		- $a\otimes(b\oplus c)=(a\otimes b) \oplus (a\otimes c)$
+	- Operasjonen $\otimes$ er høyre-distributiv dersom
+		- $(b\oplus c)\otimes a=(b\otimes a) \oplus (c\otimes a)$
+	- Operasjonen $\otimes$ er distributiv dersom den er høyre- og venstre-distributiv
+-
+- Eksempler på distributive operasjoner
+	- Distributiv
+		- [[Multiplikasjon]]
+	- Høyre-distributiv
+		- [[Divisjon]]

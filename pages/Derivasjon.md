@@ -1,2 +1,14 @@
-- Derivasjon er nøye knyttet til [[sekant]]
+- Derivasjon er sterkt knyttet til [[sekant]]
+-
+- Derivasjon er en måte å finne ut hvor mye en [funksjon]([[Funksjoner]]) endrer seg ved visse x-verdier.
+- Den deriverte av en funksjon $f(x)$ skrives $f'(x)$
+	- På lik måte kan vi skrive dobbel derivert $f''(x)$
+	- Hvis du vil skrive den n'te deriverte der n>3, kan vi skrive $f^{(n)}(x)$
+-
+- Derivasjon er definert av følgende [grenseverdi]([[Grenseverdier]])
+	- $f'(x)=\lim\limits_{\Delta x\to 0}\frac{f(x+\Delta x) - f(x)}{\Delta x}$
+-
+- Når vi deriverer funksjoner, har vi en rekke [derivasjonsregler]([[Derivasjonsregler]]) som vi kan lage med utgangspunkt i definisjonen.
+-
+-
 -

@@ -1,0 +1,5 @@
+- Normalen til en [kurve]([[Kurve]]) er en linje som står [[vinkelrett]] med [tangenten]([[tangent]]) til kurven.
+-
+- Funksjonen til linjen som står normalt til en funkjson $f(x)$ ved punkt $a$ er definert slik
+	- $y=-\frac{1}{f'(a)}(x-a)+f(a)$
+	-

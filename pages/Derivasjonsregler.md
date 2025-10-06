@@ -1,0 +1,14 @@
+- Alle reglene her vil bruke $x$ som variabelen vi deriverer mot, og $u$ og $v$ er funksjoner av $x$
+- $(u(x)+v(x))'=u'(x)+v'(x)$
+- $(x^n)'=nx^{n-1}$
+  id:: 68e3823d-e498-4632-8668-f6ab1e795faf
+- $(k\cdot u(x))'=k\cdot u'(x)$
+- $(a)'=0$
+- $(\frac{1}{x})'=-\frac{1}{x^2}$
+	- Kommer fra ((68e3823d-e498-4632-8668-f6ab1e795faf)) der $n=-1$
+- $(\sqrt{x})'=\frac{1}{2\sqrt{x}}$
+	- Kommer fra((68e3823d-e498-4632-8668-f6ab1e795faf)) der $n=\frac{1}{2}$
+- $(u\cdot v)'=u'\cdot v + u \cdot v'$
+- $(\frac{u}{v})'=\frac{u'\cdot v - u \cdot v'}{v^2}$
+-
+-
