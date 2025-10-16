@@ -1,2 +1,17 @@
 - [[Addisjon]]
 -
+- En sum er en verdi vi får ved å [addere]([[Addisjon]]) flere [[Ledd]] i ett [[Uttrykk]]
+- Ett eksempel er summen $2+4+6=12$
+	- Her har vi leddene $2, 4, 6$ og hvis vi adderer disse sammen får vi $12$
+-
+- Summer som følger et mønster, kan vi beskrive med [[Sigma notasjon]]
+	- $\displaystyle\sum_{n=1}^5n$
+	- $\sum_{n=1}^5n$
+	- Begge disse to summene sier det samme, og er bare to forskjellige måter å si det samme: Ta alle tall fra og med 1 til og med 5, og summer de.
+	- Merk at det som står etter $\sum$ er uttrykket som vil bli summert, der variabelen som står under $\sum$ vil bli substituert med variabelen av samme navn i uttrykket.
+	- $\sum_{n=1}^{4}2n = 2+4+6+8$
+	-
+-
+- Noen ganger så har vi en sum av [[Uendelige rekker]]. Dette kan være blant annet
+	- [[Geometriske rekker]]
+	- [[Aritmetiske rekker]]
